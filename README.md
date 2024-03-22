@@ -13,7 +13,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/Developer-ritesh/email_context_list.git
+git clone https://github.com/Developer-ritesh/email_contact.git
 Navigate to the project directory:
 
 Get the dependencies:
